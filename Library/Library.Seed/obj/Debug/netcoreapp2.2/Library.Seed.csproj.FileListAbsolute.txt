@@ -1,0 +1,14 @@
+C:\Projects\Library\Library.Seed\bin\Debug\netcoreapp2.2\Library.Seed.deps.json
+C:\Projects\Library\Library.Seed\bin\Debug\netcoreapp2.2\Library.Seed.runtimeconfig.json
+C:\Projects\Library\Library.Seed\bin\Debug\netcoreapp2.2\Library.Seed.runtimeconfig.dev.json
+C:\Projects\Library\Library.Seed\bin\Debug\netcoreapp2.2\Library.Seed.dll
+C:\Projects\Library\Library.Seed\obj\Debug\netcoreapp2.2\Library.Seed.csprojAssemblyReference.cache
+C:\Projects\Library\Library.Seed\obj\Debug\netcoreapp2.2\Library.Seed.csproj.CoreCompileInputs.cache
+C:\Projects\Library\Library.Seed\obj\Debug\netcoreapp2.2\Library.Seed.AssemblyInfoInputs.cache
+C:\Projects\Library\Library.Seed\obj\Debug\netcoreapp2.2\Library.Seed.AssemblyInfo.cs
+C:\Projects\Library\Library.Seed\bin\Debug\netcoreapp2.2\Library.Seed.pdb
+C:\Projects\Library\Library.Seed\bin\Debug\netcoreapp2.2\Library.DAL.dll
+C:\Projects\Library\Library.Seed\bin\Debug\netcoreapp2.2\Library.DAL.pdb
+C:\Projects\Library\Library.Seed\obj\Debug\netcoreapp2.2\Library.Seed.csproj.CopyComplete
+C:\Projects\Library\Library.Seed\obj\Debug\netcoreapp2.2\Library.Seed.dll
+C:\Projects\Library\Library.Seed\obj\Debug\netcoreapp2.2\Library.Seed.pdb

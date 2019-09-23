@@ -1,0 +1,14 @@
+C:\Projects\Library\Library.Practice\bin\Debug\netcoreapp2.2\Library.Practice.deps.json
+C:\Projects\Library\Library.Practice\bin\Debug\netcoreapp2.2\Library.Practice.runtimeconfig.json
+C:\Projects\Library\Library.Practice\bin\Debug\netcoreapp2.2\Library.Practice.runtimeconfig.dev.json
+C:\Projects\Library\Library.Practice\bin\Debug\netcoreapp2.2\Library.Practice.dll
+C:\Projects\Library\Library.Practice\bin\Debug\netcoreapp2.2\Library.DAL.dll
+C:\Projects\Library\Library.Practice\bin\Debug\netcoreapp2.2\Library.DAL.pdb
+C:\Projects\Library\Library.Practice\obj\Debug\netcoreapp2.2\Library.Practice.csprojAssemblyReference.cache
+C:\Projects\Library\Library.Practice\obj\Debug\netcoreapp2.2\Library.Practice.csproj.CoreCompileInputs.cache
+C:\Projects\Library\Library.Practice\obj\Debug\netcoreapp2.2\Library.Practice.AssemblyInfoInputs.cache
+C:\Projects\Library\Library.Practice\obj\Debug\netcoreapp2.2\Library.Practice.AssemblyInfo.cs
+C:\Projects\Library\Library.Practice\obj\Debug\netcoreapp2.2\Library.Practice.csproj.CopyComplete
+C:\Projects\Library\Library.Practice\bin\Debug\netcoreapp2.2\Library.Practice.pdb
+C:\Projects\Library\Library.Practice\obj\Debug\netcoreapp2.2\Library.Practice.dll
+C:\Projects\Library\Library.Practice\obj\Debug\netcoreapp2.2\Library.Practice.pdb

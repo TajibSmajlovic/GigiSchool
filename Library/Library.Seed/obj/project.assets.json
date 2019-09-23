@@ -14541,11 +14541,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\Library\\Library.Seed\\Library.Seed.csproj",
+      "projectUniqueName": "C:\\Projects\\GigiSchool\\Library\\Library.Seed\\Library.Seed.csproj",
       "projectName": "Library.Seed",
-      "projectPath": "C:\\Projects\\Library\\Library.Seed\\Library.Seed.csproj",
+      "projectPath": "C:\\Projects\\GigiSchool\\Library\\Library.Seed\\Library.Seed.csproj",
       "packagesPath": "C:\\Users\\tajibsm\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\Library\\Library.Seed\\obj\\",
+      "outputPath": "C:\\Projects\\GigiSchool\\Library\\Library.Seed\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -14564,8 +14564,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Projects\\Library\\Library.DAL\\Library.DAL.csproj": {
-              "projectPath": "C:\\Projects\\Library\\Library.DAL\\Library.DAL.csproj"
+            "C:\\Projects\\GigiSchool\\Library\\Library.DAL\\Library.DAL.csproj": {
+              "projectPath": "C:\\Projects\\GigiSchool\\Library\\Library.DAL\\Library.DAL.csproj"
             }
           }
         }

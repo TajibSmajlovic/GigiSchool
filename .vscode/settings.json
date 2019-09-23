@@ -1,0 +1,8 @@
+{
+  "editor.formatOnSave": true,
+  // Enable per-language
+  // "[html]": {
+  //   "editor.formatOnSave": false
+  // },
+  "editor.wordWrap": "on"
+}

@@ -1,1 +1,1 @@
-# GigiSchool
+# GigiSchool Generation 6
